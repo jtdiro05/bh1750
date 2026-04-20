@@ -1,0 +1,7 @@
+Debug/
+.settings/
+*.o
+*.elf
+*.list
+*.map
+*.launch
